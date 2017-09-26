@@ -1,1 +1,4 @@
 asdsadasdsa
+
+
+Kolejna linijka, któr¹ w³aœnie dopisa³em na potrzeby commitu. 
